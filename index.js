@@ -1,8 +1,5 @@
 // Write your code in this file!
-scuberGreetingForFeet() {
-
+function scuberGreetingForFeet() {
+  if 
 }
 
-let freeSample 
-
-if ()
