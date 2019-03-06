@@ -3,6 +3,6 @@ scuberGreetingForFeet() {
 
 }
 
-let result 
+let freeSample 
 
 if ()
